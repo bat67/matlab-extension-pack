@@ -1,13 +1,28 @@
-# README
-## This is the README for your extension pack "matlab-extension-pack"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Matlab Extension Pack
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+- [Matlab Extension Pack](#matlab-extension-pack)
+  - [Introduction](#introduction)
+  - [Extensions Included](#extensions-included)
+  - [Contributing](#contributing)
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## Introduction
+
+- This extension pack packages some of the most popular (and some of my favorite) Matlab extensions.
+- Hope these will make Matlab code writing easier and fun.
+
+
+## Extensions Included
+
+* [MATLAB for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=Gimly81.matlab) - This extension adds language support for MATLAB to Visual Studio Code: colorization, snippets, and code checking.
+* [MATLAB Selection Runner for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=eamonbell.matlab-runner) - This extension gives Visual Studio Code the ability to run selected MATLAB code and show the output in a terminal window.
+* [matlab-formatter](https://marketplace.visualstudio.com/items?itemName=AffenWiesel.matlab-formatter) - Indent and format MATLAB code. Also usable as standalone without VScode.
+
+
+## Contributing
+
+- Bugs, feature requests, and more, in [GitHub Issues](https://github.com/bat67/matlab-extension-pack/issues).
+- Or write a review on [vscode marketplace](https://marketplace.visualstudio.com/items?itemName=bat67.matlab-extension-pack#review-details)
+- Open a PR is also OK and I'd be happy to take a look.
+
 
 **Enjoy!**
