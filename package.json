@@ -1,0 +1,39 @@
+{
+    "name": "matlab-extension-pack",
+    "displayName": "Matlab Extension Pack",
+    "description": "Popular and useful Visual Studio Code extensions for Matlab",
+    "version": "0.0.1",
+    "publisher": "bat67",
+    "icon": "icon.png",
+    "engines": {
+        "vscode": "^1.30.0"
+    },
+    "galleryBanner": {
+        "color": "#333333",
+		"theme": "dark"
+    },
+    "keywords": [
+        "matlab",
+		"snippets",
+        "runner",
+        "linter",
+		"extension pack"
+	],
+    "categories": [
+        "Extension Packs"
+    ],
+    "license": "SEE LICENSE IN LICENSE.txt",
+    "repository": {
+		"type": "git",
+		"url": "https://github.com/bat67/matlab-extension-pack"
+	},
+	"homepage": "https://github.com/bat67/matlab-extension-pack",
+	"bugs": {
+        "url": "https://github.com/bat67/matlab-extension-pack/issues"
+    },
+    "extensionPack": [ 
+        "Gimly81.matlab",
+        "eamonbell.matlab-runner",
+        "AffenWiesel.matlab-formatter"
+    ]
+}
