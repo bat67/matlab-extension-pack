@@ -2,6 +2,7 @@
 
 - [Matlab Extension Pack](#matlab-extension-pack)
   - [Introduction](#introduction)
+  - [How to install](#how-to-install)
   - [Extensions Included](#extensions-included)
   - [Contributing](#contributing)
 
@@ -10,6 +11,9 @@
 - This extension pack packages some of the most popular (and some of my favorite) Matlab extensions.
 - Hope these will make Matlab code writing easier and fun.
 
+## How to install
+
+- open [this website](https://marketplace.visualstudio.com/items?itemName=bat67.matlab-extension-pack#overview) and click "Install"
 
 ## Extensions Included
 
@@ -21,7 +25,7 @@
 ## Contributing
 
 - Bugs, feature requests, and more, in [GitHub Issues](https://github.com/bat67/matlab-extension-pack/issues).
-- Or write a review on [vscode marketplace](https://marketplace.visualstudio.com/items?itemName=bat67.matlab-extension-pack#review-details)
+- Or write a review on [vscode marketplace](https://marketplace.visualstudio.com/items?itemName=bat67.matlab-extension-pack#review-details).
 - Open a PR is also OK and I'd be happy to take a look.
 
 
