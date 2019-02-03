@@ -18,7 +18,7 @@
 ## Extensions Included
 
 * [MATLAB for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=Gimly81.matlab) - This extension adds language support for MATLAB to Visual Studio Code: colorization, snippets, and code checking.
-* [MATLAB Selection Runner for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=eamonbell.matlab-runner) - This extension gives Visual Studio Code the ability to run selected MATLAB code and show the output in a terminal window.
+* <del>[MATLAB Selection Runner for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=eamonbell.matlab-runner) - This extension gives Visual Studio Code the ability to run selected MATLAB code and show the output in a terminal window.</del> **This extension is now off the store for some reason. For more detail see [this issue](https://github.com/bat67/matlab-extension-pack/issues/1).**
 * [matlab-formatter](https://marketplace.visualstudio.com/items?itemName=AffenWiesel.matlab-formatter) - Indent and format MATLAB code. Also usable as standalone without VScode.
 
 
