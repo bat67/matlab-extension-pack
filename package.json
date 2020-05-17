@@ -2,7 +2,7 @@
     "name": "matlab-extension-pack",
     "displayName": "Matlab Extension Pack",
     "description": "Popular and useful Visual Studio Code extensions for Matlab",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "publisher": "bat67",
     "icon": "icon.png",
     "engines": {
@@ -22,7 +22,7 @@
     "categories": [
         "Extension Packs"
     ],
-    "license": "SEE LICENSE IN LICENSE.txt",
+    "license": "SEE LICENSE IN LICENSE.md",
     "repository": {
 		"type": "git",
 		"url": "https://github.com/bat67/matlab-extension-pack"
@@ -34,6 +34,9 @@
     "extensionPack": [ 
         "Gimly81.matlab",
         "eamonbell.matlab-runner",
-        "AffenWiesel.matlab-formatter"
+        "AffenWiesel.matlab-formatter",
+        "bramvanbilsen.matlab-code-run",
+        "apommel.matlab-interactive-terminal",
+        "slaier.matlab-complete"
     ]
 }
